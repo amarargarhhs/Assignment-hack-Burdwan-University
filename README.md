@@ -38,7 +38,7 @@ Each section below expands when tapped. Semesters with assignments are marked **
 
 ### 🗓️ 1st Year
 
-<details open>
+<details>
 <summary>▶️ <strong>Semester 1</strong> — <code>✅ Ready</code></summary>
 
 | Assignment | Subject | Status | Open |
